@@ -1,0 +1,1 @@
+# Cofoundry.Plugins.QueuedMail
